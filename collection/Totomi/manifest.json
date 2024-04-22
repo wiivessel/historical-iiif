@@ -1,0 +1,186 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://eb249be7-4732-4560-ba7e-f8e89f8c4d25",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://a0033196-7407-4f51-b73d-6becd2ce4475",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://e1c470f9-26d4-42f7-bdac-d6e3ff148a92",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1579,
+					"width": 2226,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d1b80dc7-f335-4ed3-8f8d-1d6149b0f5c9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_113/+tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_113/+tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 1579,
+								"width": 2226
+							},
+							"on": "http://e1c470f9-26d4-42f7-bdac-d6e3ff148a92"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://33ad4d26-cbe8-48c4-9723-ba644ac8ffba",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1579,
+					"width": 2226,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4339ebf9-fdfd-45cc-ae45-626224d0cc95",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_114/+tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_114/+tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 1579,
+								"width": 2226
+							},
+							"on": "http://33ad4d26-cbe8-48c4-9723-ba644ac8ffba"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://955d2413-a5c8-4b78-83b2-bd55dc1762a8",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1579,
+					"width": 2226,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e7a85d92-35ea-40d0-8a0d-e91af0f4a297",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_115/+tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_115/+tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 1579,
+								"width": 2226
+							},
+							"on": "http://955d2413-a5c8-4b78-83b2-bd55dc1762a8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://787190c6-580e-4f3e-8183-e81d59092edf",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1579,
+					"width": 2226,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6433141b-265a-4e26-a91f-f269c2de8861",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_116/+tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://super-dusk-8e24c4.netlify.app/Totomi/_116/+tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 1579,
+								"width": 2226
+							},
+							"on": "http://787190c6-580e-4f3e-8183-e81d59092edf"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
